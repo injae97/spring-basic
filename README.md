@@ -4,7 +4,7 @@
 
     Spring boot project create 
     - https://start.spring.io
-    - Gradle / v2.7.5 (2022.11.01) 
+    - Gradle / v2.7.5
 
     Metadata
 	
