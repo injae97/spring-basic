@@ -25,4 +25,4 @@ Setting > Gradle
 ## HOW TO FIND FEATURE SHORTCUT KEYS?
 File > Setting > Keymap
 
-    - Search for features (e.g : generate > win : ALT + INSERT)
+    - Search for features (e.g : generate > win : ALT + INSERT) 
