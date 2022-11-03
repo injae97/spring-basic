@@ -21,3 +21,8 @@
 Setting > Gradle
 
     - Build and run > Build and run using(Run tests using) : IntelliJ IDEA 
+
+## HOW TO FIND FEATURE SHORTCUT KEYS?
+File > Setting > Keymap
+
+    - Search for features (e.g : generate > win : ALT + INSERT)
