@@ -7,6 +7,9 @@ public class MemberServiceTest {
 
     MemberService memberService = new MemberServiceImpl();
 
+    /**
+     * 단위 테스트
+     */
     @Test
     void join() {
         // given
