@@ -26,3 +26,14 @@ Setting > Gradle
 File > Setting > Keymap
 
     - Search for features (e.g : generate > win : ALT + INSERT) 
+
+
+## HOW TO EXTRACT VARIABLES WITH SHORTCUT KEYS?
+    - Ctrl + ALT + V 
+
+## HOW TO CALL public static void main THROUGH COMMAND?
+    - psvm
+
+## HOW TO CALL System.out.println("variables:" + variables) THROUGH COMMAND?
+    - soutv
+ 
