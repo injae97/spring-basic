@@ -37,6 +37,6 @@ File > Setting > Keymap
 ## HOW TO CALL public static void main THROUGH COMMAND?
     - psvm
 
-## HOW TO CALL System.out.println("variables:" + variables) THROUGH COMMAND?
+## HOW TO CALL System.out.println THROUGH COMMAND?
     - soutv
  
