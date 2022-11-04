@@ -31,6 +31,9 @@ File > Setting > Keymap
 ## HOW TO EXTRACT VARIABLES WITH SHORTCUT KEYS?
     - Ctrl + ALT + V 
 
+## HOW TO MOVE DIRECTLY TO THE ERROR? 
+    - F2
+
 ## HOW TO CALL public static void main THROUGH COMMAND?
     - psvm
 
