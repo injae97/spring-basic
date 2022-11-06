@@ -18,6 +18,7 @@ public class MemberServiceTest {
         memberService = appConfig.memberService();
     }
 
+
     /**
      * 단위 테스트
      */
