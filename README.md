@@ -27,9 +27,8 @@ File > Setting > Keymap
 
     - Search for features (e.g : generate > win : ALT + INSERT) 
 
-
 ## HOW TO EXTRACT VARIABLES WITH SHORTCUT KEYS?
-    - Ctrl + ALT + V 
+    - Ctrl + ALT + V
 
 ## HOW TO MOVE DIRECTLY TO THE ERROR? 
     - F2
@@ -39,4 +38,6 @@ File > Setting > Keymap
 
 ## HOW TO CALL System.out.println THROUGH COMMAND?
     - soutv
- 
+
+## HOW TO CREATE TEST FILE AUTOMATICALLY WITH SHORTCUT KEYS?
+    - Ctrl + ALT + T
