@@ -2,12 +2,10 @@
 
 * 2022-11-01
 
-    Spring boot project create 
-    - https://start.spring.io
-    - Gradle / v2.7.5
+    + [Spring boot project create](https://start.spring.io)
+    + Gradle : v2.7.5
 
     Metadata
-	
     + Group (기업 도메인 명)
     + Artifact (프로젝트 빌드명)
     + Packaging : Jar
