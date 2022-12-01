@@ -8,13 +8,10 @@
 
     Metadata
 	
-        - Group (기업 도메인 명)
-		
-        - Artifact (프로젝트 빌드명)
-		
-		- Packaging : Jar
-
-        - Java 11 
+    + Group (기업 도메인 명)
+    + Artifact (프로젝트 빌드명)
+    + Packaging : Jar
+    + Java 11 
 
 # --------- Tips ------------
 ## Fast Run Setting
