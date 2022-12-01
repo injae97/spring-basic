@@ -11,7 +11,6 @@
     + Packaging : Jar
     + Java 11 
 
-# --------- Tips ------------
 ## Fast Run Setting
 Setting > Gradle
 
